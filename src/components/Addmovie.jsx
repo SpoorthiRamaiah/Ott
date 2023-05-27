@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { useNavigate } from "react-router-dom";
 const Addmovie = () => {
-
+//git
   let navigate = useNavigate()
   let moviename=useRef();
   let hero=useRef();
